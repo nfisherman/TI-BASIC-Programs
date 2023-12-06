@@ -1,0 +1,5 @@
+ClrHome
+Lbl ST
+Input "ENTER LEFT SIDE:",A
+Input "ENTER RIGHT SIDE:",B
+inString(A,"X")->C
